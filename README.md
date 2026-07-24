@@ -78,6 +78,28 @@ skillhub install see-the-small --dir <你的 skills 目录>
 
 当前版本：v1.2
 
+
+
+## 💬 反馈与交流
+
+见微还在持续进化中，你的声音直接决定它的方向。
+
+### 🐛 遇到问题？有想法？
+在 GitHub 提交 Issue：
+- **[报告 Bug](https://github.com/lzzylxm/see-the-small/issues/new?labels=bug)** — 使用中遇到异常、数据不对、流程卡住
+- **[功能建议](https://github.com/lzzylxm/see-the-small/issues/new?labels=feature)** — 想要的功能、希望改进的地方
+
+### 📮 直接聊
+发邮件到 **lxmjoseph.lxm@claw.163.com**，我会看每一条。
+
+### 📕 小红书
+我在养号中，会持续分享见微的使用日记和成长思考。搜 **见微** 或关注我，评论区就是最好的反馈通道。
+
+---
+
+> **每一次反馈，都在帮见微变得更好。谢谢你花时间。**
+
+
 ## 许可
 
 MIT

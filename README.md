@@ -1,6 +1,23 @@
-# 见微 · 你的成长陪伴搭档
+# 见微 · 你的成长陪伴搭档 / See the Small — Your Growth Companion
 
 > **你每天都在变，只是你自己没发现。见微知道。**
+> **You change every day, you just don't notice it. See the Small does.**
+
+[![SkillHub](https://img.shields.io/badge/SkillHub-see--the--small-blue)](https://skillhub.cn/skills/see-the-small)
+
+**见微** is an AI-powered personal growth companion skill. Think of it as a warm, quiet observer that helps you capture daily clues, notice your own patterns, and gives you a "mirror of echoes" every week.
+
+- 📝 **Daily Check-in**: Chat like with a friend, AI structures your reflection
+- 📊 **Mood & Energy Tracking**: Emotional labels, energy levels, satisfaction scores
+- 🔄 **Weekly Echo**: 7-day data summary + pattern recognition + growth comparison
+- 🧠 **Pattern Insights**: AI discovers hidden patterns you'd miss on your own
+- 🔒 **100% Local**: All data stays on your device
+
+[中文版 ↓](#见微--你的成长陪伴搭档)
+
+---
+
+## 一句话介绍
 
 ## 一句话介绍
 

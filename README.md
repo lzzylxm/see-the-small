@@ -45,7 +45,7 @@
 | 🧠 **模式洞察** | AI 自动发现你注意不到的规律（如心流日满意度高30%） | 持续累积 |
 | 🔒 **本地存储** | 所有数据在你的设备上，你的数据你做主 | — |
 
-## 三大成长支柱（V1.3）
+## 三大成长支柱（V1.4）
 
 | 支柱 | 含义 | 数据来源 |
 |------|------|---------|
@@ -103,7 +103,7 @@ skillhub install see-the-small --dir <你的 skills 目录>
 
 ## 版本
 
-当前版本：v1.3（2026-07-27） | [更新日志](https://github.com/lzzylxm/see-the-small/releases)
+当前版本：v1.4.0（2026-07-29） | [更新日志](https://github.com/lzzylxm/see-the-small/releases)
 
 
 
